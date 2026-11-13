@@ -1,4 +1,5 @@
 ﻿import Image from "next/image";
+import FooterYear from "./components/FooterYear";
 import {
   ArrowDown,
   ArrowUpRight,
@@ -989,14 +990,14 @@ export default function Home() {
             href="#home"
             className="text-xs font-medium text-slate-400 hover:text-sky-300"
           >
-            BACK TO TOP â†‘
+            BACK TO TOP &uarr;
           </a>
 
         </div>
 
         <div className="border-t border-white/[0.05] py-5 text-center text-[11px] text-slate-600">
 
-          Â© {new Date().getFullYear()} Aditya Kumar Das Gaurav. All rights reserved.
+          &copy; <FooterYear /> Aditya Kumar Das Gaurav. All rights reserved.
 
         </div>
 
