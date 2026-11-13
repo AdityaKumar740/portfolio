@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Aditya Kumar Das Gaurav | Personal Portfolio
 
-## Getting Started
+Welcome to my personal portfolio! This website showcases my journey as a **Full Stack Developer**, my technical skills, academic background, and projects.
 
-First, run the development server:
+I'm passionate about building modern, responsive, and user-friendly web applications while continuously improving my development skills.
+
+## 🌐 Live Website
+
+- **Portfolio:** [Add Your Vercel Live URL Here](#)
+
+## 👨‍💻 About Me
+
+Hi! I'm **Aditya Kumar Das Gaurav**, a Full Stack Developer from Bangladesh.
+
+- 🎓 **University:** Ahsania Mission University of Science and Technology
+- 📚 **Degree:** BSc in Computer Science and Engineering (CSE)
+- 📖 **Current Semester:** 2nd Year, 1st Semester
+- 💻 **Profession:** Full Stack Developer
+- 🌱 **Currently:** Learning, building projects, and exploring new technologies.
+
+## 🛠️ Technologies & Skills
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+
+### Backend Development
+- Node.js
+- Express.js
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+## ✨ Features
+
+- **Modern UI Design:** Clean, attractive, and professional dark-themed interface.
+- **Fully Responsive:** Optimized for mobile, tablet, and desktop devices.
+- **Hero Section:** Introduction with profile picture and developer identity.
+- **About Me:** Information about my background and development journey.
+- **Education Section:** Academic information and current university semester.
+- **Skills Section:** Overview of my frontend and backend technologies.
+- **Services Section:** Frontend, backend, and full-stack development capabilities.
+- **Projects Section:** Highlights of my development projects.
+- **Contact Section:** Direct email and social media links.
+- **Smooth Navigation:** Easy navigation between different portfolio sections.
+
+## 🚀 Getting Started
+
+Follow these instructions to run the project locally.
+
+### Prerequisites
+
+Make sure you have installed:
+
+- Node.js
+- npm
+- Git
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/AdityaKumar740/portfolio.git
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd portfolio
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**5. Open your browser**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Visit:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```text
+http://localhost:3000
+```
 
-## Learn More
+## 📬 Contact Me
 
-To learn more about Next.js, take a look at the following resources:
+I'm always interested in connecting with fellow developers, collaborating on projects, and exploring new opportunities.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **GitHub:** [AdityaKumar740](https://github.com/AdityaKumar740)
+- **LinkedIn:** [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-853915223/)
+- **Email:** [adittokumar730@gmail.com](mailto:adittokumar730@gmail.com)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📄 License
 
-## Deploy on Vercel
+This project is created for my personal portfolio and learning purposes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⭐ If you like my portfolio, feel free to explore my GitHub repositories!
+
+**Designed & Developed by Aditya Kumar Das Gaurav.**
